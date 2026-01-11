@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+:root { 
+  --card-radius: 0.75rem;
+ }
