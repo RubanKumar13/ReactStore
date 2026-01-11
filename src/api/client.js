@@ -1,6 +1,7 @@
 import axios from 'axios'
 
-export const API_URL = 'http://localhost:3001'
+// export const API_URL = 'http://localhost:3001'
+export const API_URL = 'https://react-store-vree.onrender.com'
 export const PRODUCTS_URL = `${API_URL}/products`
 
 const client = axios.create({
